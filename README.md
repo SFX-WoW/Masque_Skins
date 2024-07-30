@@ -6,7 +6,7 @@
 [![PayPal][SVG-PayPal]][PayPal]
 [![Ko-fi][SVG-Kofi]][Kofi]
 
-> [!Importaqnt]
+> [!IMPORTANT]
 > This repository only contains updated text files for outdated skins. Users will need to obtain a copy of their preferred skin(s) as this repository contains no proprietary assets.
 
 ## [About][Top]
@@ -15,7 +15,7 @@ This repository is a collection of skins that have been updated to be compatible
 
 ## [Skins][Top]
 
-- **Masque: Darion**
+- [Darion](Masque_Darion "Darion")
 
 ## [Requirements][Top]
 
