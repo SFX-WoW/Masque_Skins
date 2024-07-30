@@ -26,7 +26,7 @@ This add-on requires [Masque] and a copy of the original **Masque: Darion** skin
 
 ## [Installation][Top]
 
-Copy the `Skins.lua` and `Masque_Darion.toc` files from this repository to local skin directory, overwriting any existing files.
+Copy the `Skins.lua` and `Masque_Darion.toc` files from this repository to the local skin directory, overwriting any existing files.
 
 ## [Credits][Top]
 
