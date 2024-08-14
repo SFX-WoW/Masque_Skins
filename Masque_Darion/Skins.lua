@@ -16,17 +16,17 @@ if not MSQ then return end
 -- Locals
 ---
 
-local API_VERSION = 110000
+local AddOn = ...
 
 -- Skin Info
-local Version = "11.0.0"
+local Version = C_AddOns.GetAddOnMetadata(AddOn, "Version")
 
 ----------------------------------------
 -- Darion
 ---
 
 MSQ:AddSkin("Darion", {
-	API_VERSION = API_VERSION,
+	API_VERSION = 110000,
 	Shape = "Square",
 
 	-- [ Info ]
